@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">TesteCabeleleiro</string>
+    <string name="Nome_cliente">Usuário:</string>
+    <string name="Inicio_controle">07:00h</string>
+    <string name="as_01">ás</string>
+    <string name="Termino_controle">07:30h</string>
+
+
+
+
+    <string name="meia_noite">00:00h</string>
+    <string name="meia_noite015">00:15h</string>
+    <string name="meia_noite030">00:30h</string>
+    <string name="meia_noite045">00:45h</string>
+
+    <string name="uma_00">01:00h</string>
+    <string name="uma_015">01:15h</string>
+    <string name="uma_030">01:30h</string>
+    <string name="uma_045">01:45h</string>
+
+    <string name="duas_00">02:00h</string>
+    <string name="duas_015">02:15h</string>
+    <string name="duas_030">02:30h</string>
+    <string name="duas_045">02:45h</string>
+
+    <string name="tres_00">03:00h</string>
+    <string name="tres_015">03:15h</string>
+    <string name="tres_030">03:30h</string>
+    <string name="tres_045">03:45h</string>
+
+    <string name="quatro_00">04:00h</string>
+    <string name="quatro_015">04:15h</string>
+    <string name="quatro_030">04:30h</string>
+    <string name="quatro_045">04:45h</string>
+
+    <string name="cinco_00">05:00h</string>
+    <string name="cinco_015">05:15h</string>
+    <string name="cinco_030">05:30h</string>
+    <string name="cinco_045">05:45h</string>
+
+    <string name="seis_00">06:00h</string>
+    <string name="seis_015">06:15h</string>
+    <string name="seis_030">06:30h</string>
+    <string name="seis_045">06:45h</string>
+
+    <string name="sete_00">07:00h</string>
+    <string name="sete_015">07:15h</string>
+    <string name="sete_030">07:30h</string>
+    <string name="sete_045">07:45h</string>
+
+    <string name="oito_00">08:00h</string>
+    <string name="oito_015">08:15h</string>
+    <string name="oito_030">08:30h</string>
+    <string name="oito_045">08:45h</string>
+
+    <string name="nove_00">09:00h</string>
+    <string name="nove_015">09:15h</string>
+    <string name="nove_030">09:30h</string>
+    <string name="nove_045">09:45h</string>
+
+    <string name="dez_00">10:00h</string>
+    <string name="dez_015">10:15h</string>
+    <string name="dez_030">10:30h</string>
+    <string name="dez_045">10:45h</string>
+
+    <string name="onze_00">11:00h</string>
+    <string name="onze_015">11:15h</string>
+    <string name="onze_030">11:30h</string>
+    <string name="onze_045">11:45h</string>
+
+    <string name="doze_00">12:00h</string>
+    <string name="doze_015">12:15h</string>
+    <string name="doze_030">12:30h</string>
+    <string name="doze_045">12:45h</string>
+
+
+</resources>
